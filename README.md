@@ -1,12 +1,26 @@
+<!-- ═══════════════════════════════════════════════════════════
+     ⚙️  SETUP REQUIRED for two animated elements:
+     1. Snake contribution animation  →  create file:
+        .github/workflows/snake.yml   (content below in comments)
+     2. 3D contribution graph         →  create file:
+        .github/workflows/3d-contrib.yml  (content below in comments)
+     Everything else renders immediately.
+═══════════════════════════════════════════════════════════ -->
+
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=140&section=header&text=Ahmed%20Tayebi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Engineer%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=16&animation=fadeIn"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=6C63FF&center=true&width=600&height=50&lines=Product+Engineer+%26+UI%2FUX+Designer;Mobile+%C2%B7+Web+%C2%B7+Design+%C2%B7+All+in+one;Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Figma;Turning+ideas+into+digital+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=6C63FF&center=true&width=600&height=45&lines=Mobile+%C2%B7+Web+%C2%B7+Design+%C2%B7+All+in+one;Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Figma;Turning+ideas+into+digital+products;Open+to+remote+%26+serious+projects)](https://git.io/typing-svg)
 
-**Ahmed Tayebi · Algeria 🌍**
+**Algeria 🌍 · Open to Remote**
 
 *"I don't build websites. I engineer digital products that mean something."*
 
 </div>
+
+<br/>
 
 ---
 
@@ -16,7 +30,7 @@
   <tr>
     <td align="center"><strong>📱 Mobile Apps</strong></td>
     <td align="center"><strong>🌐 Web Products</strong></td>
-    <td align="center"><strong>🎨 UI/UX Design</strong></td>
+    <td align="center"><strong>✦ UI/UX Design</strong></td>
   </tr>
   <tr>
     <td align="center">Flutter · Dart</td>
@@ -37,39 +51,31 @@
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-**📱 Mobile**
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+**Mobile**
 
-**🌐 Frontend**
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark)](https://skillicons.dev)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+**Frontend**
 
-**⚙️ Backend & Tools**
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark)](https://skillicons.dev)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Backend & Tools**
 
-**🎨 Design**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,git,github,vscode&theme=dark)](https://skillicons.dev)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design_Systems-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+**Design**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ae,ps&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 🔭 Current Focus
+## 🚀 Current Focus
 
 → Shipping production-grade Flutter apps at scale  
 → Deepening system design & backend architecture  
@@ -79,15 +85,37 @@
 
 ## 📊 GitHub Stats
 
+<!-- 3D CONTRIBUTION GRAPH (requires GitHub Action — see setup note at top) -->
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedtayebi&show_icons=true&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=E8E8F0&bg_color=0A0A0F&border_color=1E1E2E" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtayebi&layout=compact&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=E8E8F0&bg_color=0A0A0F&border_color=1E1E2E" />
+  <img src="https://raw.githubusercontent.com/ahmedtayebi/ahmedtayebi/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedtayebi&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0A0A0F&border=1E1E2E&dates=8888A8&sideLabels=8888A8)](https://git.io/streak-stats)
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtayebi&bg_color=0A0A0F&color=6C63FF&line=6C63FF&point=E8E8F0&area=true&area_color=6C63FF&hide_border=true&radius=8" alt="Activity Graph"/>
+</div>
 
+<br/>
+
+<!-- STATS CARDS -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmedtayebi&show_icons=true&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=E8E8F0&bg_color=0A0A0F&border_color=1E1E2E&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtayebi&layout=compact&theme=transparent&title_color=6C63FF&icon_color=6C63FF&text_color=E8E8F0&bg_color=0A0A0F&border_color=1E1E2E&border_radius=10" />
+
+<br/><br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedtayebi&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&background=0A0A0F&border=1E1E2E&dates=8888A8&sideLabels=8888A8&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION (requires GitHub Action — see setup note at top) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ahmedtayebi/ahmedtayebi/output/github-contribution-grid-snake-animated.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 ---
@@ -104,12 +132,80 @@
 
 </div>
 
----
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedtayebi&color=6C63FF&style=flat-square)
-
+&nbsp;
 <sub>// Ahmed Tayebi · Product Engineer · Algeria · 2026</sub>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════
+GITHUB ACTIONS SETUP — copy each block to the correct file path
+
+━━━ FILE 1: .github/workflows/snake.yml ━━━
+
+name: Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ahmedtayebi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-animated.svg?color_snake=6C63FF&color_dots=#0d1117,#1a1a2e,#2d2b55,#6C63FF,#8b83ff
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+━━━ FILE 2: .github/workflows/3d-contrib.yml ━━━
+
+name: 3D Contribution Graph
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ahmedtayebi
+        with:
+          settings_json: >-
+            {
+              "githubUserName": "ahmedtayebi",
+              "defaultSettings": {
+                "fileName": "profile-night-rainbow.svg",
+                "backgroundColor": "#0A0A0F",
+                "type": "NORMAL"
+              }
+            }
+      - run: |
+          mkdir -p profile-3d-contrib
+          cp -f profile-3d-contrib.svg profile-3d-contrib/profile-night-rainbow.svg || true
+      - uses: actions/upload-artifact@v3
+        with:
+          name: profile-3d-contrib
+          path: profile-3d-contrib
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update 3D contribution graph"
+
+═══════════════════════════════════════════════════════════ -->
