@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=6C63FF&center=true&width=600&height=50&lines=Product+Engineer+%26+UI%2FUX+Designer;Mobile+%C2%B7+Web+%C2%B7+Design+%C2%B7+All+in+one;Flutter+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Figma;Turning+ideas+into+digital+products)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-
 **Ahmed Tayebi · Algeria 🌍**
 
 *"I don't build websites. I engineer digital products that mean something."*
@@ -43,33 +39,33 @@
 
 ## 🛠 Tech Stack
 
-**Mobile**
+**📱 Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-0A0A0F?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-0A0A0F?style=for-the-badge&logo=dart&logoColor=00B4AB)
-![Firebase](https://img.shields.io/badge/Firebase-0A0A0F?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Frontend**
+**🌐 Frontend**
 
-![React](https://img.shields.io/badge/React-0A0A0F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0F?style=for-the-badge&logo=next.js&logoColor=E8E8F0)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0F?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0F?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0A0A0F?style=for-the-badge&logo=framer&logoColor=6C63FF)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend & Tools**
+**⚙️ Backend & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0F?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Supabase](https://img.shields.io/badge/Supabase-0A0A0F?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0A0A0F?style=for-the-badge&logo=fastapi&logoColor=6C63FF)
-![Git](https://img.shields.io/badge/Git-0A0A0F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=E8E8F0)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Design**
+**🎨 Design**
 
-![Figma](https://img.shields.io/badge/Figma-0A0A0F?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![UX Research](https://img.shields.io/badge/UX_Research-0A0A0F?style=for-the-badge&logo=buffer&logoColor=6C63FF)
-![Design Systems](https://img.shields.io/badge/Design_Systems-0A0A0F?style=for-the-badge&logo=storybook&logoColor=FF4785)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ---
 
@@ -100,9 +96,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ahmedtayebi)
-[![Dribbble](https://img.shields.io/badge/Dribbble-0A0A0F?style=for-the-badge&logo=dribbble&logoColor=EA4C89)](https://dribbble.com/ahmedtayebi)
-[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@ahmedtayebi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedtayebi)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ahmedtayebi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ahmedtayebi.dev)
 
 *Open to serious projects, collaborations, and remote opportunities.*
 
